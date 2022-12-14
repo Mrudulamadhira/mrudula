@@ -8,7 +8,7 @@ This is a web based application developed for health related telugu based websit
 
 *Project Link* - https://polite-desert-01c198510.2.azurestaticapps.net
 *Project demovideo Link* - 
-#### azure services 1) static web apps 2), health health bot.
+#### azure services 1) static web apps 2),azure health bot.
 
 
 ## Features and Functionalities 😃
