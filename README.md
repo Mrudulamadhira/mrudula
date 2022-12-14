@@ -1,5 +1,5 @@
 # mrudula
-# ✨ fitnessin  ✨
+# ✨ Fitnessin  ✨
 
 This is a web based application developed for health related telugu based website in india
 
@@ -7,6 +7,7 @@ This is a web based application developed for health related telugu based websit
 
 
 *Project Link* - 
+*Project demovideo Link* - 
 
 
 ## Features and Functionalities 😃
@@ -21,5 +22,4 @@ This is a web based application developed for health related telugu based websit
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
