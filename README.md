@@ -6,9 +6,10 @@ This is a web based application developed for health related telugu based websit
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - https://polite-desert-01c198510.2.azurestaticapps.net
-*Project demovideo Link* - https://github.com/Mrudulamadhira/mrudula/blob/main/Fitness%20In%20a%20Sports%20Category%20Bootstrap%20responsive%20Website%20Template%20_%20Home%20__%20mrudula%20-%20Google%20Chrome%202022-12-14%2023-00-22.mp4
+## *Project Link* - https://polite-desert-01c198510.2.azurestaticapps.net
+## *Project demovideo Link* - https://github.com/Mrudulamadhira/mrudula/blob/main/Fitness%20In%20a%20Sports%20Category%20Bootstrap%20responsive%20Website%20Template%20_%20Home%20__%20mrudula%20-%20Google%20Chrome%202022-12-14%2023-00-22.mp4
 #### azure services 1) static web apps 2),azure health bot.
+## health bot demo video:https://github.com/Mrudulamadhira/mrudula/blob/main/https___polite-desert-01c198510.2.azurestaticapps.net_bot.html%20-%20Google%20Chrome%202022-12-16%2008-57-24.mp4
 
 
 ## Features and Functionalities 😃
