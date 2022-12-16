@@ -16,6 +16,7 @@ This is a web based application developed for health related telugu based websit
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
+- helth relaed bot.
 ### web page screen shots 
 ### HOME PAGE
 
@@ -28,6 +29,7 @@ This is a web based application developed for health related telugu based websit
 <img width="1079" alt="m7" src="https://user-images.githubusercontent.com/117923192/207664897-0e23d0c1-d41d-46bb-bcab-5d12884b73f9.png">
 <img width="1080" alt="m8" src="https://user-images.githubusercontent.com/117923192/207665062-a92e5b98-d402-4a20-a5d6-3253229cd8b5.png">
 <img width="1071" alt="m9" src="https://user-images.githubusercontent.com/117923192/207665089-3e6f0dcc-f889-405c-94b0-899976d68506.png">
+## how health bot works  video demo: 
 <img width="1077" alt="m10" src="https://user-images.githubusercontent.com/117923192/207665106-98ccae90-9e52-4267-8a70-670b114211d6.png">
 ## Azure resources
 
