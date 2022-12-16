@@ -31,9 +31,16 @@ This is a web based application developed for health related telugu based websit
 <img width="1071" alt="m9" src="https://user-images.githubusercontent.com/117923192/207665089-3e6f0dcc-f889-405c-94b0-899976d68506.png">
 ## how health bot works  video demo: 
 <img width="1077" alt="m10" src="https://user-images.githubusercontent.com/117923192/207665106-98ccae90-9e52-4267-8a70-670b114211d6.png">
+<img width="1073" alt="obesity" src="https://user-images.githubusercontent.com/117923192/208016302-984c801b-68ed-4b76-8e9f-6a851cad47dc.png">
+<img width="1073" alt="m fever" src="https://user-images.githubusercontent.com/117923192/208016387-63b7093d-416c-4563-a7d2-223a9505ed3f.png">
+
+## Tech Stack 💻
+
+
 ## Azure resources
 
 <img width="1079" alt="mrudula azure " src="https://user-images.githubusercontent.com/117923192/207665140-e99687be-f19e-4eae-991f-3201c30b1b08.png">
+
 
 ## Tech Stack 💻
 
